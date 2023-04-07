@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;
+}
+
+.container{
+ border: 2px solid;
+ height: 360px;
+ border-radius: 3rem;
+ width: 500px;
+ padding: 25px;
+ margin-top: 30px;
+}
+
+/* /* #submiting{
+    margin: 10px;
+    margin-left:42%;
+} */
+h3{
+   text-align: center; 
+}
+
+h2{
+    margin-left: 8%;
+}
+
+#btn{
+    margin: 20px;
+    margin-left: 38%;
+}
+table, td, th {
+    border: 1px solid;
+    text-align: center;
+}
+
+#items{
+    width:800px;
+    margin-top: 25px;
+    margin-left: 23%;
+    visibility:hidden;
+}
+
+h5{
+    text-align: center;
+}
+#delete{
+    margin: 8px;
+}
+
+
+
